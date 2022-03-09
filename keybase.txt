@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/addet0x
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://addet0x.github.io
+  * I am addet0x (https://keybase.io/addet0x) on keybase.
+  * I have a public key with fingerprint E6F5 8EAC E0B3 6C9D 4B02  B0B8 115E 73B0 18B5 8183
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101394dba4c5b9b3c9d994cc68d7e77e7014e8845e55241ccdbfd39e2752706516f0a",
+      "fingerprint": "e6f58eace0b36c9d4b02b0b8115e73b018b58183",
+      "host": "keybase.io",
+      "key_id": "115e73b018b58183",
+      "kid": "0101394dba4c5b9b3c9d994cc68d7e77e7014e8845e55241ccdbfd39e2752706516f0a",
+      "uid": "1578705b884fe08c8d89eddcbad1bd19",
+      "username": "addet0x"
+    },
+    "service": {
+      "hostname": "addet0x.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1646831583,
+  "expire_in": 157680000,
+  "prev": "8add754ad3fed9a9fb3a15ba487f05d0805d9fcb7d65fe9b3be54639989059c3",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVBGD5mlpmagUQXtNiKCo4yc3Znd/ZUQlCYkZAviWKddnZmj5t2
+9nh2NS8cswhRShTrpaIbXSSiKKIo60GzGwRmKtIFsyijC13sQaEim7V6CHpsGGaY
+f77vm28+/ltJsZ6EmMMjn5OTvB17Yu53Hir3kKVtQzUCsWiV4K8RStjExkops51A
+iUkFvwAggKIqUaJJOiIqEXWVqqqk6zKmClP4BFBiGEuIIeSToK5TYlBRZT4F+RQg
+IygbQBO8gmGGgiwSjpghh8sy2UCYaToDRJS5pESAjwCCIURMEQmAmCAMsciJxZbt
+Mrg5otks07R4jR8CE/b+gf/Pvst/vYMUrABEOMFgAOuYYpVRqhONQkKh6gJtFglp
+2xhHa5QyB1QKUa/AixWmztxc3Y/8DcgMmk5xOfn1p3DEcizdKuXXxY4Ttv0u3akK
+u/jtjAR+KwWIGaI8S86oYBHbtEKCH3Kk7piuNJQlGYsQYdErsMqwGWEB00UgRcaA
+D/cdVsElMfegIEmjosGoqqkGETWIeFxYMQCiAPNFNXSiUBkZjAdIGJJkUVWxCpCq
+u0nbrCxkCX6Z29SCXNI2gyHNKY8wIXqzo2iyJybBMyVukttjnoRpKX86j+ZMHTfW
+Nbffu3ly/4vGA2c25o6npuzOyS5IzCmL3Zn7ozV3+EZTydpFNV0zW9JP9xa+WBi/
+IXtW/OyL08/Vp37ZcvzL93lpzYFjRXcu5wU30W9D3+iqNee7rLELL73Zj+7VZmT1
+3L1y69KJunUDy+pbq2tnvBuMtlWBpx/japTbviUjq2H1aEbXovW79o3kfhqbbx0c
+PJLxYMWW/pUdnceTBsbmvi7o72uta4htfAj3zskvSTvWPWlT7+jWYN9se+HZhpbD
+0Svj4Mny7gOB4Vd96cOJj9sDb8oWnz16fVudt7+pZfPz0WlleTven4r/OpK84W13
+Z8HQs6P519KzjMIecGFBz4erUZysNfwEivFI2Q==
+=OSDa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/addet0x
+
+==================================================================
