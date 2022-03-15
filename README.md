@@ -23,7 +23,7 @@ The second is late stage capitalism at it's worst: A(n [evil](https://en.wikiped
 # Can't post it otherwise so click link below:
 <p id="eff-telegram-ukraine"></p>
 
-https://www.eff.org/deeplinks/2022/03/telegram-harm-reduction-users-russia-and-ukraine
+[https://www.eff.org/deeplinks/2022/03/telegram-harm-reduction-users-russia-and-ukraine](https://www.eff.org/deeplinks/2022/03/telegram-harm-reduction-users-russia-and-ukraine)
 
 # Twitter Timeline (for as long as the anonimity gods allow it)
 
