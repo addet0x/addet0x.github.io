@@ -25,6 +25,10 @@ The second is late stage capitalism at it's worst: A(n [evil](https://en.wikiped
 
 [https://www.eff.org/deeplinks/2022/03/telegram-harm-reduction-users-russia-and-ukraine](https://www.eff.org/deeplinks/2022/03/telegram-harm-reduction-users-russia-and-ukraine)
 
+# Pinned Mastodon Post
+
+<iframe src="https://fosstodon.org/@addet0x/108005556562266250/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
 # Twitter Timeline (for as long as the anonimity gods allow it)
 
 <a class="twitter-timeline" data-dnt="true" data-theme="dark" href="https://twitter.com/AddeT0x?ref_src=twsrc%5Etfw">Tweets by AddeT0x</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
