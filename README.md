@@ -27,7 +27,10 @@ The second is late stage capitalism at it's worst: A(n [evil](https://en.wikiped
 
 # Pinned Mastodon Post
 
+<iframe src="https://fosstodon.org/@addet0x/110179738504130299/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
 <iframe id="mastodon" src="https://fosstodon.org/@addet0x/108005556562266250/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
 
 # Twitter Timeline (for as long as the anonimity gods allow it)
 
